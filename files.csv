@@ -1,0 +1,17 @@
+Type,Offset,Index,Hash,StopOnClose,Path
+offset,1151,0,0,1,dub/dayOne/0.ogg
+offset,1151,1,0,1,dub/dayOne/1.ogg
+offset,1151,2,0,1,dub/dayOne/2.ogg
+offset,1151,3,0,1,dub/dayOne/3.ogg
+offset,1151,4,0,1,dub/dayOne/4.ogg
+offset,1151,5,0,1,dub/dayOne/5.ogg
+offset,1151,6,0,1,dub/dayOne/6.ogg
+offset,1151,7,0,1,dub/dayOne/7.ogg
+offset,1151,8,0,1,dub/dayOne/8.ogg
+offset,1151,9,0,1,dub/dayOne/9.ogg
+offset,95,0,0,0,dub/open/0.ogg
+offset,95,4,0,0,dub/open/4.ogg
+offset,95,8,0,0,dub/open/8.ogg
+offset,95,10,0,0,dub/open/10.ogg
+offset,95,16,0,0,dub/open/16.ogg
+offset,95,20,0,0,dub/open/20.ogg
