@@ -9,7 +9,7 @@ A fan dub of *Conquests of the Longbow*. Uses [GoatVM](https://github.com/chrisd
 
 ## How to run
 
-1. Download a ZIP file of this repo and extract it, or clone this repo.
+1. Download a [ZIP file](https://github.com/chrisdfrey/longbow-dub/archive/refs/heads/main.zip) of this repo and extract it, or clone this repo.
 2. Copy files.csv and dub file folders to a "dub" subfolder under your *Conquests of the Longbow* folder.
 3. Run GoatVM and run *Conquests of the Longbow* (add the game folder if you haven't done so in another version of ScummVM).
 
