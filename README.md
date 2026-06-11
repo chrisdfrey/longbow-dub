@@ -2,7 +2,7 @@
 
 A fan dub of *Conquests of the Longbow*. Uses [GoatVM](https://github.com/chrisdfrey/GoatVM/).
 
-## Prerequesites
+## Prerequisites
 
 - GoatVM executable (can be compiled by building the sci-dubs branch in the GoatVM repo).
 - Game files for *Conquests of the Longbow* (can be purchased on GOG).
