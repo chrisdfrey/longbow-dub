@@ -1,11 +1,15 @@
 # longbow-dub
 
-A fan dub of *Conquests of the Longbow*. Uses [GoatVM](https://github.com/chrisdfrey/GoatVM/).
+A work-in-progress fan dub of *Conquests of the Longbow*. See this Trello board for progress: https://trello.com/b/YrzBQYkU/longbow-dub
+
+Works with [GoatVM](https://github.com/chrisdfrey/GoatVM/).
+
+For more information, see the #longbow-dub channel in the Kings Quest Speedruns Discord: https://discord.gg/Skk98WrTma
 
 ## Prerequisites
 
 - GoatVM executable: https://github.com/chrisdfrey/GoatVM/releases
-- Game files for *Conquests of the Longbow* (can be purchased on GOG).
+- Game files for *Conquests of the Longbow* (can be purchased on GOG)
 
 ## How to run
 
