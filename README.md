@@ -2,7 +2,7 @@
 
 A work-in-progress fan dub of *Conquests of the Longbow*. See this Trello board for progress: https://trello.com/b/YrzBQYkU/longbow-dub
 
-Works with [GoatVM](https://github.com/chrisdfrey/GoatVM/).
+A demonstration of the first outlaw conversation outside the cave (with voice lines from OneShortEye's video): https://www.youtube.com/watch?v=yohRlvoitBI
 
 For more information, see the #longbow-dub channel in the Kings Quest Speedruns Discord: https://discord.gg/Skk98WrTma
 
