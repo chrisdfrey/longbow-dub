@@ -31,5 +31,5 @@ My current plan for using AI with this project:
 1. Won’t use AI to generate voices or other media.
 2. Won’t use stuff that uploads audio to cloud services (aside from YouTube, Google Drive).
 3. For stuff that changes audio, will prefer tools that don’t use AI (e.g. Audacity MuseFX effects).
-4. Will continue using AI coding tools for working on GoatVM (e.g. ChatGPT Codex).
+4. Will continue using AI coding tools for working on GoatVM (e.g. GitHub Copilot), asking LLMs questions.
 5. Might use some tools that run on my computer with AI features (e.g. AI transcripts), but will consider alternatives, especially for stuff that changes audio.
