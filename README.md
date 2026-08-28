@@ -36,5 +36,5 @@ Thing I will use AI for:
 
 Things I won't use AI for:
 * Won't use AI to generate voices or other media
-* Won't upload audio to cloud services aside from YouTube, Google Drive, GitHub
 * Won't use AI to change recordings without the voice actor's consent, and will prefer tools that don't use AI (e.g. Audacity MuseFX plugins)
+* Won't upload audio to cloud services aside from YouTube, Google Drive, GitHub
