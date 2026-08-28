@@ -30,11 +30,11 @@ The offset is the number of the selected text resource in SCI Companion, and the
 I want to be open and transparent with how I use AI for this project.
 
 Thing I will use AI for:
-# Asking AI questions (e.g. Claude)
-# Using AI coding tools (e.g. Claude Code) for developing GoatVM
-# If I have consent from the voice actor, I might use Audacity OpenVINO plugins (e.g. Whisper transcripts) on their recordings
+* Asking AI questions (e.g. Claude)
+* Using AI coding tools (e.g. Claude Code) for developing GoatVM
+* If I have consent from the voice actor, I might use Audacity OpenVINO plugins (e.g. Whisper transcripts) on their recordings
 
 Things I won't use AI for:
-# Won't use AI to generate voices or other media
-# Won't upload audio to cloud services aside from YouTube, Google Drive, GitHub
-# Won't use AI to change recordings without the voice actor's consent, and will prefer tools that don't use AI (e.g. Audacity MuseFX plugins)
+* Won't use AI to generate voices or other media
+* Won't upload audio to cloud services aside from YouTube, Google Drive, GitHub
+* Won't use AI to change recordings without the voice actor's consent, and will prefer tools that don't use AI (e.g. Audacity MuseFX plugins)
