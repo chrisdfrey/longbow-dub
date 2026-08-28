@@ -27,9 +27,14 @@ The offset is the number of the selected text resource in SCI Companion, and the
 
 ## AI usage disclosure
 
-My current plan for using AI with this project:
-1. Won’t use AI to generate voices or other media.
-2. Won’t use stuff that uploads audio to cloud services (aside from YouTube, Google Drive).
-3. For stuff that changes audio, will prefer tools that don’t use AI (e.g. Audacity MuseFX effects).
-4. Will continue asking LLMs questions and using AI coding tools (e.g. Google Antigravity).
-5. Might use some tools that run on my computer with AI features (e.g. AI transcripts).
+I want to be open and transparent with how I use AI for this project.
+
+Thing I will use AI for:
+# Asking AI questions (e.g. Claude)
+# Using AI coding tools (e.g. Claude Code) for developing GoatVM
+# If I have consent from the voice actor, I might use Audacity OpenVINO plugins (e.g. Whisper transcripts) on their recordings
+
+Things I won't use AI for:
+# Won't use AI to generate voices or other media
+# Won't upload audio to cloud services aside from YouTube, Google Drive
+# Won't use AI to change recordings without the voice actor's consent, and will prefer tools that don't use AI (e.g. Audacity MuseFX plugins)
