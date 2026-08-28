@@ -27,7 +27,7 @@ The offset is the number of the selected text resource in SCI Companion, and the
 
 ## AI usage disclosure
 
-I want to be open and transparent with how I use AI for this project.
+I want to be open and transparent with how I use AI for this project, and respect the consent of voice actors.
 
 Thing I will use AI for:
 * Asking AI questions (e.g. Claude)
